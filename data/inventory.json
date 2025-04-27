@@ -1,0 +1,110 @@
+[
+  {
+    "item_id": "chicken_filet_regular",
+    "item_name": "Regular Chicken Filet",
+    "current_stock": 150,
+    "reorder_point": 100,
+    "supplier": "PoultryPro",
+    "lead_time_days": 2,
+    "unit": "pieces"
+  },
+  {
+    "item_id": "chicken_filet_spicy",
+    "item_name": "Spicy Chicken Filet",
+    "current_stock": 120,
+    "reorder_point": 80,
+    "supplier": "PoultryPro",
+    "lead_time_days": 2,
+    "unit": "pieces"
+  },
+  {
+    "item_id": "chicken_filet_grilled",
+    "item_name": "Grilled Chicken Filet",
+    "current_stock": 90,
+    "reorder_point": 50,
+    "supplier": "PoultryPro",
+    "lead_time_days": 2,
+    "unit": "pieces"
+  },
+  {
+    "item_id": "grilled_nuggets",
+    "item_name": "Grilled Nuggets",
+    "current_stock": 200,
+    "reorder_point": 150,
+    "supplier": "PoultryPro",
+    "lead_time_days": 2,
+    "unit": "pieces"
+  },
+  {
+    "item_id": "regular_nuggets",
+    "item_name": "Regular Nuggets",
+    "current_stock": 300,
+    "reorder_point": 200,
+    "supplier": "PoultryPro",
+    "lead_time_days": 2,
+    "unit": "pieces"
+  },
+  {
+    "item_id": "chicken_strips",
+    "item_name": "Chicken Strips",
+    "current_stock": 100,
+    "reorder_point": 70,
+    "supplier": "PoultryPro",
+    "lead_time_days": 2,
+    "unit": "pieces"
+  },
+  {
+    "item_id": "seasoned_coater",
+    "item_name": "Seasoned Coater (Regular)",
+    "current_stock": 50,
+    "reorder_point": 30,
+    "supplier": "SpiceWorks",
+    "lead_time_days": 3,
+    "unit": "lbs"
+  },
+  {
+    "item_id": "spicy_seasoned_coater",
+    "item_name": "Spicy Seasoned Coater",
+    "current_stock": 40,
+    "reorder_point": 20,
+    "supplier": "SpiceWorks",
+    "lead_time_days": 3,
+    "unit": "lbs"
+  },
+  {
+    "item_id": "milk_eggwash",
+    "item_name": "Milk and Egg Wash",
+    "current_stock": 60,
+    "reorder_point": 40,
+    "supplier": "DairyBest",
+    "lead_time_days": 3,
+    "unit": "gallons"
+  },
+  {
+    "item_id": "peanut_oil",
+    "item_name": "Peanut Oil",
+    "current_stock": 100,
+    "reorder_point": 60,
+    "supplier": "OilDepot",
+    "lead_time_days": 2,
+    "unit": "gallons"
+  },
+  {
+    "item_id": "canola_oil",
+    "item_name": "Canola Oil",
+    "current_stock": 80,
+    "reorder_point": 50,
+    "supplier": "OilDepot",
+    "lead_time_days": 2,
+    "unit": "gallons"
+  },
+  {
+    "item_id": "waffle_fries",
+    "item_name": "Waffle Fries",
+    "current_stock": 500,
+    "reorder_point": 350,
+    "supplier": "PotatoKing",
+    "lead_time_days": 2,
+    "unit": "bags"
+  }
+]
