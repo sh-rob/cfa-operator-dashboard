@@ -1,0 +1,125 @@
+[
+  {
+    "date": "2025-04-10",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 75
+  },
+  {
+    "date": "2025-04-11",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 80
+  },
+  {
+    "date": "2025-04-12",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 85
+  },
+  {
+    "date": "2025-04-13",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 78
+  },
+  {
+    "date": "2025-04-14",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 82
+  },
+  {
+    "date": "2025-04-15",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 77
+  },
+  {
+    "date": "2025-04-16",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 79
+  },
+  {
+    "date": "2025-04-17",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 88
+  },
+  {
+    "date": "2025-04-18",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 83
+  },
+  {
+    "date": "2025-04-19",
+    "item_id": "chicken_filet_regular",
+    "quantity_sold": 86
+  },
+
+  {
+    "date": "2025-04-10",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 58
+  },
+  {
+    "date": "2025-04-11",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 61
+  },
+  {
+    "date": "2025-04-12",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 63
+  },
+  {
+    "date": "2025-04-13",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 59
+  },
+  {
+    "date": "2025-04-14",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 60
+  },
+  {
+    "date": "2025-04-15",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 65
+  },
+  {
+    "date": "2025-04-16",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 62
+  },
+  {
+    "date": "2025-04-17",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 64
+  },
+  {
+    "date": "2025-04-18",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 61
+  },
+  {
+    "date": "2025-04-19",
+    "item_id": "chicken_filet_spicy",
+    "quantity_sold": 66
+  },
+
+  { "date": "2025-04-10", "item_id": "regular_nuggets", "quantity_sold": 140 },
+  { "date": "2025-04-11", "item_id": "regular_nuggets", "quantity_sold": 145 },
+  { "date": "2025-04-12", "item_id": "regular_nuggets", "quantity_sold": 150 },
+  { "date": "2025-04-13", "item_id": "regular_nuggets", "quantity_sold": 148 },
+  { "date": "2025-04-14", "item_id": "regular_nuggets", "quantity_sold": 155 },
+  { "date": "2025-04-15", "item_id": "regular_nuggets", "quantity_sold": 149 },
+  { "date": "2025-04-16", "item_id": "regular_nuggets", "quantity_sold": 152 },
+  { "date": "2025-04-17", "item_id": "regular_nuggets", "quantity_sold": 151 },
+  { "date": "2025-04-18", "item_id": "regular_nuggets", "quantity_sold": 157 },
+  { "date": "2025-04-19", "item_id": "regular_nuggets", "quantity_sold": 160 },
+
+  { "date": "2025-04-10", "item_id": "waffle_fries", "quantity_sold": 175 },
+  { "date": "2025-04-11", "item_id": "waffle_fries", "quantity_sold": 180 },
+  { "date": "2025-04-12", "item_id": "waffle_fries", "quantity_sold": 185 },
+  { "date": "2025-04-13", "item_id": "waffle_fries", "quantity_sold": 190 },
+  { "date": "2025-04-14", "item_id": "waffle_fries", "quantity_sold": 200 },
+  { "date": "2025-04-15", "item_id": "waffle_fries", "quantity_sold": 195 },
+  { "date": "2025-04-16", "item_id": "waffle_fries", "quantity_sold": 205 },
+  { "date": "2025-04-17", "item_id": "waffle_fries", "quantity_sold": 210 },
+  { "date": "2025-04-18", "item_id": "waffle_fries", "quantity_sold": 215 },
+  { "date": "2025-04-19", "item_id": "waffle_fries", "quantity_sold": 220 }
+]

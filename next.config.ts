@@ -1,7 +1,13 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  /* config options here */
+// next.config.ts
+// @ts-ignore
+import withLess from "next-with-less";
+
+const nextConfig = {
+  reactStrictMode: true,
+
+  // other Next.js settings if you have
 };
 
-export default nextConfig;
+export default withLess(nextConfig);
