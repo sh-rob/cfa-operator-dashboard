@@ -1,0 +1,78 @@
+:root {
+  --cfa-soft-red: #fde8e9;
+  --cfa-cream: #fffdfd;
+  --cfa-blue: #e6f4ff;
+  --nav-gray: #2e2e2e;
+  --logout-green: #00b271;
+  --border-blue: #b3e5fc;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  place-items: center;
+  padding: 1.25rem 2rem;
+  background-color: var(--cfa-cream);
+  border-top: var(--spacing-md) solid var(--border-blue);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
+  position: relative;
+  z-index: 10;
+  font-family: var(--font-inter), sans-serif;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: var(--color-primary-red);
+  padding-left: 0.5rem;
+}
+
+.navLinks {
+  display: flex;
+  gap: 2rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--nav-gray);
+  transition: color 0.2s ease-in-out;
+}
+
+.navLinks a {
+  display: inline-block;
+  text-decoration: none;
+  color: var(--nav-gray);
+  white-space: nowrap;
+  transition: color 0.2s ease, transform 0.2s ease;
+  font-weight: bold;
+}
+
+.navLinks a:hover {
+  color: var(--color-primary-red);
+  transform: translateY(-1px);
+}
+
+.navLinks a.active {
+  color: var(--logout-green);
+}
+
+.navLinks a.disabled {
+  color: var(--nav-gray-disabled);
+  pointer-events: none;
+}
+
+.logoutButton {
+  background-color: var(--logout-green);
+  color: white;
+  border: none;
+  padding: 0.5rem 1.2rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.logoutButton:hover {
+  background-color: #009a60;
+}
